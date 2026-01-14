@@ -12,7 +12,7 @@ Instead of using backpropagation, the neural network is trained **exclusively us
 
 ---
 
-## 🧠 Problem Description
+## Problem Description
 
 The goal is to approximate an unknown function based on sampled input–output pairs. The following benchmark functions are supported:
 
